@@ -1,6 +1,6 @@
 # CATCH//SIM — Starship tower-catch simulator
 
-**▶ Play it in your browser: https://nic4wtf.github.io/starship-catch-sim/** (desktop and phone)
+**▶ Play it in your browser: https://shockproductions.github.io/starship-catch-sim/** (desktop and phone)
 
 A live simulation of a Starship upper stage returning to the launch site. It glides belly-first, relights its Raptors, flips, flies a hoverslam into the tower and is caught by the chopsticks. Everything runs in real time in the browser, so you can change any parameter in the middle of a run and watch the flight computer react. Nothing is precomputed.
 
